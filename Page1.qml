@@ -5,7 +5,7 @@ Page1Form {
         console.log("Button \"Press me\" clicked.");
     }
     button2.onClicked: {
-        console.log("Button \"ok\" clicked.");
+        console.log("Button \"ok1\" clicked.");
     }
     button3.onClicked: {
         console.log("Exit clicked");

@@ -18,7 +18,7 @@ ApplicationWindow {
         
         Page {
             Label {
-                text: qsTr("Second page")
+                text: qsTr("Empt page")
                 anchors.centerIn: parent
             }
         }
